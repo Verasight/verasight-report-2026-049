@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.1.0",
+  "report_id": "2026-049",
+  "repo_name": "verasight-report-2026-049",
+  "title": "SBM Omnibus Survey #2026-049",
+  "wave_id": "2026-049",
+  "source_report_url": "https://reports.verasight.io/reports/sbm-2026",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2026-05-01",
+    "end": "2026-05-04"
+  },
+  "population": "US adults age 18+",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 65,
+  "modules": [
+    "Module A",
+    "Module B"
+  ],
+  "publication_status": "ready_for_draft",
+  "reuse_status": "reference_only_pending_verasight_license_decision"
+}

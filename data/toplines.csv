@@ -1,0 +1,349 @@
+question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,unweighted_n,is_missing,source_url
+2026-049_a_1,1,Excellent,0.09624330976527726,9.62,96.24330976527676,90,false,https://reports.verasight.io/reports/sbm-2026#q-1-1
+2026-049_a_1,2,Very good,0.303522230139117,30.35,303.52223013911544,311,false,https://reports.verasight.io/reports/sbm-2026#q-1-1
+2026-049_a_1,3,Good,0.3912289486875161,39.12,391.2289486875141,392,false,https://reports.verasight.io/reports/sbm-2026#q-1-1
+2026-049_a_1,4,Fair,0.18010627858164802,18.01,180.1062785816471,179,false,https://reports.verasight.io/reports/sbm-2026#q-1-1
+2026-049_a_1,5,Poor,0.028899232826441534,2.89,28.899232826441384,28,false,https://reports.verasight.io/reports/sbm-2026#q-1-1
+2026-049_a_10,1,"Personal health behaviors (e.g. diet, exercise, sleep, substance use, stress management)",0.5466128476779566,54.66,546.6128476779538,548,false,https://reports.verasight.io/reports/sbm-2026#q-1-10
+2026-049_a_10,2,Access to healthcare,0.10875470254293661,10.88,108.75470254293604,119,false,https://reports.verasight.io/reports/sbm-2026#q-1-10
+2026-049_a_10,3,Financial stability,0.12898287451612112,12.9,128.98287451612046,127,false,https://reports.verasight.io/reports/sbm-2026#q-1-10
+2026-049_a_10,4,Social relationships and support,0.1043287643232704,10.43,104.32876432326987,99,false,https://reports.verasight.io/reports/sbm-2026#q-1-10
+2026-049_a_10,5,"Physical environment (e.g., housing, neighborhood safety, etc.)",0.0630170717714257,6.3,63.01707177142538,62,false,https://reports.verasight.io/reports/sbm-2026#q-1-10
+2026-049_a_10,6,Work or job conditions,0.026366768825901398,2.64,26.366768825901264,25,false,https://reports.verasight.io/reports/sbm-2026#q-1-10
+2026-049_a_10,7,Other,0.02193697034238816,2.19,21.936970342388047,20,false,https://reports.verasight.io/reports/sbm-2026#q-1-10
+2026-049_a_11,1,"No, and I do not intend to start regular physical activity in the next 6 months.",0.10496431226105526,10.5,104.96431226105473,112,false,https://reports.verasight.io/reports/sbm-2026#q-1-11
+2026-049_a_11,2,"No, but I intend to start regular physical activity in the next 6 months.",0.12928715977616823,12.93,129.28715977616756,126,false,https://reports.verasight.io/reports/sbm-2026#q-1-11
+2026-049_a_11,3,"No, but I intend to start regular physical activity in the next 30 days.",0.16118439961155356,16.12,161.18439961155275,165,false,https://reports.verasight.io/reports/sbm-2026#q-1-11
+2026-049_a_11,4,"Yes, I have been, but for less than 6 months.",0.17225203749350096,17.23,172.25203749350007,160,false,https://reports.verasight.io/reports/sbm-2026#q-1-11
+2026-049_a_11,5,"Yes, I have been for more than 6 months.",0.43231209085772193,43.23,432.31209085771974,437,false,https://reports.verasight.io/reports/sbm-2026#q-1-11
+2026-049_a_12,1,0 Days,0.1692573271189697,16.93,169.25732711896885,175,false,https://reports.verasight.io/reports/sbm-2026#q-1-12
+2026-049_a_12,2,1 Day,0.07413914867173754,7.41,74.13914867173716,73,false,https://reports.verasight.io/reports/sbm-2026#q-1-12
+2026-049_a_12,3,2 Days,0.13794351745654182,13.79,137.94351745654112,135,false,https://reports.verasight.io/reports/sbm-2026#q-1-12
+2026-049_a_12,4,3 Days,0.16451504518573057,16.45,164.51504518572972,162,false,https://reports.verasight.io/reports/sbm-2026#q-1-12
+2026-049_a_12,5,4 Days,0.11829453678765038,11.83,118.29453678764978,116,false,https://reports.verasight.io/reports/sbm-2026#q-1-12
+2026-049_a_12,6,5 Days,0.1259398327610011,12.59,125.93983276100046,130,false,https://reports.verasight.io/reports/sbm-2026#q-1-12
+2026-049_a_12,7,6 Days,0.06480201670108675,6.48,64.80201670108642,69,false,https://reports.verasight.io/reports/sbm-2026#q-1-12
+2026-049_a_12,8,7 Days,0.14510857531728208,14.51,145.10857531728135,140,false,https://reports.verasight.io/reports/sbm-2026#q-1-12
+2026-049_a_13,1,Yes,0.23745768669640796,23.75,237.45768669640674,238,false,https://reports.verasight.io/reports/sbm-2026#q-1-13
+2026-049_a_13,2,No,0.712373253213874,71.24,712.3732532138704,720,false,https://reports.verasight.io/reports/sbm-2026#q-1-13
+2026-049_a_13,3,I don't know,0.05016906008971796,5.02,50.1690600897177,42,false,https://reports.verasight.io/reports/sbm-2026#q-1-13
+2026-049_a_14,1,1- Poor,0.0458039479395867,4.58,45.803947939586465,44,false,https://reports.verasight.io/reports/sbm-2026#q-1-14
+2026-049_a_14,2,2,0.12677405402386188,12.68,126.77405402386124,123,false,https://reports.verasight.io/reports/sbm-2026#q-1-14
+2026-049_a_14,3,3,0.45022284707049787,45.02,450.22284707049556,446,false,https://reports.verasight.io/reports/sbm-2026#q-1-14
+2026-049_a_14,4,4,0.30335190607463275,30.34,303.3519060746312,315,false,https://reports.verasight.io/reports/sbm-2026#q-1-14
+2026-049_a_14,5,5- Great,0.07384724489142075,7.38,73.84724489142037,72,false,https://reports.verasight.io/reports/sbm-2026#q-1-14
+2026-049_a_15,1,1- Strongly disagree,0.0705038470407594,7.05,70.50384704075904,72,false,https://reports.verasight.io/reports/sbm-2026#q-1-15
+2026-049_a_15,2,2- Disagree,0.1146130882951527,11.46,114.61308829515211,121,false,https://reports.verasight.io/reports/sbm-2026#q-1-15
+2026-049_a_15,3,3- Neither agree nor disagree,0.3078292782078637,30.78,307.82927820786216,306,false,https://reports.verasight.io/reports/sbm-2026#q-1-15
+2026-049_a_15,4,4- Agree,0.3797197870385729,37.97,379.7197870385709,381,false,https://reports.verasight.io/reports/sbm-2026#q-1-15
+2026-049_a_15,5,5- Strongly agree,0.12733399941765128,12.73,127.33399941765062,120,false,https://reports.verasight.io/reports/sbm-2026#q-1-15
+2026-049_a_16,1,Never,0.1703459153640661,17.03,170.34591536406523,167,false,https://reports.verasight.io/reports/sbm-2026#q-1-16
+2026-049_a_16,2,Rarely,0.3206632182512583,32.07,320.6632182512567,330,false,https://reports.verasight.io/reports/sbm-2026#q-1-16
+2026-049_a_16,3,Sometimes,0.329138592090284,32.91,329.1385920902823,325,false,https://reports.verasight.io/reports/sbm-2026#q-1-16
+2026-049_a_16,4,Often,0.11871642402646176,11.87,118.71642402646115,121,false,https://reports.verasight.io/reports/sbm-2026#q-1-16
+2026-049_a_16,5,Always,0.061135850267929746,6.11,61.135850267929435,57,false,https://reports.verasight.io/reports/sbm-2026#q-1-16
+2026-049_a_17,1,Lose weight,0.5415553466328215,54.16,541.5553466328187,557,false,https://reports.verasight.io/reports/sbm-2026#q-1-17
+2026-049_a_17,2,Maintain your weight,0.29656192217478444,29.66,296.5619221747829,297,false,https://reports.verasight.io/reports/sbm-2026#q-1-17
+2026-049_a_17,3,Gain weight,0.07364268441441543,7.36,73.64268441441506,63,false,https://reports.verasight.io/reports/sbm-2026#q-1-17
+2026-049_a_17,4,Not pay attention to your weight,0.21029236252643135,21.03,210.29236252643028,204,false,https://reports.verasight.io/reports/sbm-2026#q-1-17
+2026-049_a_18,1,Not at all,0.025110542410582203,2.51,25.110542410582074,21,false,https://reports.verasight.io/reports/sbm-2026#q-1-18
+2026-049_a_18,2,Slightly,0.1095322322236999,10.95,109.53223222369934,118,false,https://reports.verasight.io/reports/sbm-2026#q-1-18
+2026-049_a_18,3,Moderately,0.3924286097673197,39.24,392.4286097673177,394,false,https://reports.verasight.io/reports/sbm-2026#q-1-18
+2026-049_a_18,4,A lot,0.2893481022770655,28.93,289.348102277064,288,false,https://reports.verasight.io/reports/sbm-2026#q-1-18
+2026-049_a_18,5,Extremely,0.11838062815898537,11.84,118.38062815898476,120,false,https://reports.verasight.io/reports/sbm-2026#q-1-18
+2026-049_a_18,6,I'm not sure,0.06519988516234727,6.52,65.19988516234694,59,false,https://reports.verasight.io/reports/sbm-2026#q-1-18
+2026-049_a_19,1,0 nights per week,0.4737112269564011,47.37,473.71122695639866,484,false,https://reports.verasight.io/reports/sbm-2026#q-1-19
+2026-049_a_19,2,Less than one night per week,0.3562368981600315,35.62,356.2368981600297,353,false,https://reports.verasight.io/reports/sbm-2026#q-1-19
+2026-049_a_19,3,1-3 nights per week,0.13575221572295237,13.58,135.7522157229517,129,false,https://reports.verasight.io/reports/sbm-2026#q-1-19
+2026-049_a_19,4,4-6 nights per week,0.026974317145281684,2.7,26.974317145281546,28,false,https://reports.verasight.io/reports/sbm-2026#q-1-19
+2026-049_a_19,5,7 nights per week,0.007325342015333263,0.73,7.325342015333225,6,false,https://reports.verasight.io/reports/sbm-2026#q-1-19
+2026-049_a_2,1,Excellent,0.1890342962121421,18.9,189.03429621214113,196,false,https://reports.verasight.io/reports/sbm-2026#q-1-2
+2026-049_a_2,2,Very good,0.29611337754964384,29.61,296.11337754964234,307,false,https://reports.verasight.io/reports/sbm-2026#q-1-2
+2026-049_a_2,3,Good,0.2860247348154865,28.6,286.02473481548503,287,false,https://reports.verasight.io/reports/sbm-2026#q-1-2
+2026-049_a_2,4,Fair,0.1778809699745758,17.79,177.8809699745749,165,false,https://reports.verasight.io/reports/sbm-2026#q-1-2
+2026-049_a_2,5,Poor,0.05094662144815171,5.09,50.94662144815145,45,false,https://reports.verasight.io/reports/sbm-2026#q-1-2
+2026-049_a_20,1,"Yes, definitely.",0.08804721781308114,8.8,88.04721781308069,86,false,https://reports.verasight.io/reports/sbm-2026#q-1-20
+2026-049_a_20,2,"Yes, sometimes.",0.27057110445581806,27.06,270.5711044558167,265,false,https://reports.verasight.io/reports/sbm-2026#q-1-20
+2026-049_a_20,3,"No, not really.",0.6413816777311008,64.14,641.3816777310975,649,false,https://reports.verasight.io/reports/sbm-2026#q-1-20
+2026-049_a_21,1,"Yes, in the past week",0.0827801101739174,8.28,82.78011017391698,92,false,https://reports.verasight.io/reports/sbm-2026#q-1-21
+2026-049_a_21,2,"Yes, in the past month",0.030788376834460677,3.08,30.788376834460518,32,false,https://reports.verasight.io/reports/sbm-2026#q-1-21
+2026-049_a_21,3,"Yes, in the past 12 months, but more than a month ago",0.05843571565714262,5.84,58.43571565714232,53,false,https://reports.verasight.io/reports/sbm-2026#q-1-21
+2026-049_a_21,4,"No, not in the past 12 months",0.8279957973344793,82.8,827.995797334475,823,false,https://reports.verasight.io/reports/sbm-2026#q-1-21
+2026-049_a_22,1,Never,0.05466868920318148,5.47,54.668689203181195,55,false,https://reports.verasight.io/reports/sbm-2026#q-1-22
+2026-049_a_22,2,Rarely,0.1795882757142999,17.96,179.58827571429896,183,false,https://reports.verasight.io/reports/sbm-2026#q-1-22
+2026-049_a_22,3,Sometimes,0.40850122845727455,40.85,408.5012284572725,406,false,https://reports.verasight.io/reports/sbm-2026#q-1-22
+2026-049_a_22,4,Often,0.2889074724085018,28.89,288.9074724085003,290,false,https://reports.verasight.io/reports/sbm-2026#q-1-22
+2026-049_a_22,5,Always,0.06833433421674225,6.83,68.3343342167419,66,false,https://reports.verasight.io/reports/sbm-2026#q-1-22
+2026-049_a_23,1,"Yes, in the past week",0.08192029193939426,8.19,81.92029193939385,74,false,https://reports.verasight.io/reports/sbm-2026#q-1-23
+2026-049_a_23,2,"Yes, in the past month",0.10175269491574868,10.18,101.75269491574815,95,false,https://reports.verasight.io/reports/sbm-2026#q-1-23
+2026-049_a_23,3,"Yes, in the past year",0.12571194932250476,12.57,125.71194932250411,114,false,https://reports.verasight.io/reports/sbm-2026#q-1-23
+2026-049_a_23,4,"Yes, before the past year",0.08514094629255252,8.51,85.14094629255209,83,false,https://reports.verasight.io/reports/sbm-2026#q-1-23
+2026-049_a_23,5,"No, never",0.6186250455528784,61.86,618.6250455528752,649,false,https://reports.verasight.io/reports/sbm-2026#q-1-23
+2026-049_a_23,6,Prefer not to respond,0.018505456364101548,1.85,18.505456364101452,16,false,https://reports.verasight.io/reports/sbm-2026#q-1-23
+2026-049_a_24,1,Loss of control over what or how much you eat,0.13705357589275644,13.71,137.05357589275573,138,false,https://reports.verasight.io/reports/sbm-2026#q-1-24
+2026-049_a_24,2,Eating less to change your weight/shape,0.31337619426591506,31.34,313.37619426591345,321,false,https://reports.verasight.io/reports/sbm-2026#q-1-24
+2026-049_a_24,3,Vomiting to change your weight/shape,0.02645243586092532,2.65,26.452435860925185,23,false,https://reports.verasight.io/reports/sbm-2026#q-1-24
+2026-049_a_24,4,Using diuretics/laxatives to change your weight/shape,0.025870063892721736,2.59,25.870063892721603,24,false,https://reports.verasight.io/reports/sbm-2026#q-1-24
+2026-049_a_24,5,I have not experienced any of these in the past month,0.5917252697271417,59.17,591.7252697271387,590,false,https://reports.verasight.io/reports/sbm-2026#q-1-24
+2026-049_a_25,1,I strongly prefer the synthetic drug (option 1),0.0688735178817828,6.89,68.87351788178245,64,false,https://reports.verasight.io/reports/sbm-2026#q-1-25
+2026-049_a_25,2,I slightly prefer the synthetic drug (option 1),0.09890096556710277,9.89,98.90096556710228,107,false,https://reports.verasight.io/reports/sbm-2026#q-1-25
+2026-049_a_25,3,I have no preference between the synthetic and natural drugs,0.24632032201020715,24.63,246.3203220102059,238,false,https://reports.verasight.io/reports/sbm-2026#q-1-25
+2026-049_a_25,4,I slightly prefer the natural drug (option 2),0.22285665632499874,22.29,222.8566563249976,221,false,https://reports.verasight.io/reports/sbm-2026#q-1-25
+2026-049_a_25,5,I strongly prefer the natural drug (option 2),0.36304853821590843,36.3,363.0485382159066,370,false,https://reports.verasight.io/reports/sbm-2026#q-1-25
+2026-049_a_26,1,Strongly agree,0.25791063055773333,25.79,257.910630557732,246,false,https://reports.verasight.io/reports/sbm-2026#q-1-26
+2026-049_a_26,2,Agree,0.34404940777487436,34.4,344.0494077748726,347,false,https://reports.verasight.io/reports/sbm-2026#q-1-26
+2026-049_a_26,3,Neutral,0.34048601873610135,34.05,340.4860187360996,344,false,https://reports.verasight.io/reports/sbm-2026#q-1-26
+2026-049_a_26,4,Disagree,0.04158322449339143,4.16,41.583224493391214,45,false,https://reports.verasight.io/reports/sbm-2026#q-1-26
+2026-049_a_26,5,Strongly disagree,0.015970718437899538,1.6,15.970718437899455,18,false,https://reports.verasight.io/reports/sbm-2026#q-1-26
+2026-049_a_27,1,Not at all,0.16731753183352216,16.73,167.31753183352131,164,false,https://reports.verasight.io/reports/sbm-2026#q-1-27
+2026-049_a_27,2,Slightly,0.2712576097529524,27.13,271.257609752951,271,false,https://reports.verasight.io/reports/sbm-2026#q-1-27
+2026-049_a_27,3,Somewhat,0.3127760057726558,31.28,312.7760057726542,310,false,https://reports.verasight.io/reports/sbm-2026#q-1-27
+2026-049_a_27,4,Mostly,0.17356689329521918,17.36,173.5668932952183,184,false,https://reports.verasight.io/reports/sbm-2026#q-1-27
+2026-049_a_27,5,Completely,0.0750819593456504,7.51,75.08195934565002,71,false,https://reports.verasight.io/reports/sbm-2026#q-1-27
+2026-049_a_28,1,Strongly disagree,0.10973958023916341,10.97,109.73958023916285,119,false,https://reports.verasight.io/reports/sbm-2026#q-1-28
+2026-049_a_28,2,Disagree,0.17117943354708579,17.12,171.1794335470849,187,false,https://reports.verasight.io/reports/sbm-2026#q-1-28
+2026-049_a_28,3,Somewhat disagree,0.09410924687272233,9.41,94.10924687272185,98,false,https://reports.verasight.io/reports/sbm-2026#q-1-28
+2026-049_a_28,4,Neither agree nor disagree,0.32983036791740833,32.98,329.83036791740665,312,false,https://reports.verasight.io/reports/sbm-2026#q-1-28
+2026-049_a_28,5,Somewhat agree,0.1785926115786545,17.86,178.5926115786536,174,false,https://reports.verasight.io/reports/sbm-2026#q-1-28
+2026-049_a_28,6,Agree,0.06911339073604829,6.91,69.11339073604793,66,false,https://reports.verasight.io/reports/sbm-2026#q-1-28
+2026-049_a_28,7,Strongly agree,0.04743536910891732,4.74,47.43536910891707,44,false,https://reports.verasight.io/reports/sbm-2026#q-1-28
+2026-049_a_29,1,Strongly disagree,0.035896221399636476,3.59,35.89622139963629,34,false,https://reports.verasight.io/reports/sbm-2026#q-1-29
+2026-049_a_29,2,Disagree,0.02697697182168247,2.7,26.976971821682334,26,false,https://reports.verasight.io/reports/sbm-2026#q-1-29
+2026-049_a_29,3,Somewhat disagree,0.06500827183472477,6.5,65.00827183472444,63,false,https://reports.verasight.io/reports/sbm-2026#q-1-29
+2026-049_a_29,4,Neither agree nor disagree,0.18889671824560605,18.89,188.8967182456051,171,false,https://reports.verasight.io/reports/sbm-2026#q-1-29
+2026-049_a_29,5,Somewhat agree,0.26062282003804316,26.06,260.6228200380418,258,false,https://reports.verasight.io/reports/sbm-2026#q-1-29
+2026-049_a_29,6,Agree,0.24120706350295587,24.12,241.20706350295464,252,false,https://reports.verasight.io/reports/sbm-2026#q-1-29
+2026-049_a_29,7,Strongly agree,0.1813919331573512,18.14,181.39193315735025,196,false,https://reports.verasight.io/reports/sbm-2026#q-1-29
+2026-049_a_3,1,Everyday,0.2639974339438452,26.4,263.9974339438438,267,false,https://reports.verasight.io/reports/sbm-2026#q-1-3
+2026-049_a_3,2,"More than twice a week, but not every day",0.27881916146661173,27.88,278.8191614666103,282,false,https://reports.verasight.io/reports/sbm-2026#q-1-3
+2026-049_a_3,3,Twice a week,0.1316547663139115,13.17,131.6547663139108,129,false,https://reports.verasight.io/reports/sbm-2026#q-1-3
+2026-049_a_3,4,Once a week,0.08963897190289545,8.96,89.638971902895,86,false,https://reports.verasight.io/reports/sbm-2026#q-1-3
+2026-049_a_3,5,2-3 times,0.0978980790258924,9.79,97.8980790258919,101,false,https://reports.verasight.io/reports/sbm-2026#q-1-3
+2026-049_a_3,6,Less often,0.11088558669410671,11.09,110.88558669410614,108,false,https://reports.verasight.io/reports/sbm-2026#q-1-3
+2026-049_a_3,7,Never,0.027106000652737,2.71,27.106000652736864,27,false,https://reports.verasight.io/reports/sbm-2026#q-1-3
+2026-049_a_30,1,Not at all likely,0.1485229887435869,14.85,148.52298874358615,142,false,https://reports.verasight.io/reports/sbm-2026#q-1-30
+2026-049_a_30,2,Somewhat likely,0.4298890107182372,42.99,429.889010718235,415,false,https://reports.verasight.io/reports/sbm-2026#q-1-30
+2026-049_a_30,3,Very likely,0.42158800053817586,42.16,421.5880005381737,443,false,https://reports.verasight.io/reports/sbm-2026#q-1-30
+2026-049_a_31,1,North America,0.25730721321026695,25.73,257.3072132102656,255,false,https://reports.verasight.io/reports/sbm-2026#q-1-31
+2026-049_a_31,2,Central/South America,0.04909946616503276,4.91,49.09946616503251,57,false,https://reports.verasight.io/reports/sbm-2026#q-1-31
+2026-049_a_31,3,Europe,0.08419838244463801,8.42,84.19838244463757,88,false,https://reports.verasight.io/reports/sbm-2026#q-1-31
+2026-049_a_31,4,Africa,0.011030182327504905,1.1,11.030182327504848,11,false,https://reports.verasight.io/reports/sbm-2026#q-1-31
+2026-049_a_31,5,Asia,0.03392787265929659,3.39,33.92787265929641,37,false,https://reports.verasight.io/reports/sbm-2026#q-1-31
+2026-049_a_31,6,Australia,0.008857314807137827,0.89,8.857314807137781,10,false,https://reports.verasight.io/reports/sbm-2026#q-1-31
+2026-049_a_31,7,None of the above,0.6607355024355636,66.07,660.7355024355602,661,false,https://reports.verasight.io/reports/sbm-2026#q-1-31
+2026-049_a_32,1,University/college degree,0.48958631917287626,48.96,489.58631917287374,536,false,https://reports.verasight.io/reports/sbm-2026#q-1-32
+2026-049_a_32,2,Less than a university/college degree,0.5104136808271237,51.04,510.4136808271211,464,false,https://reports.verasight.io/reports/sbm-2026#q-1-32
+2026-049_a_4,1,Less than 30 minutes,0.09752092517329707,9.75,97.52092517329656,97,false,https://reports.verasight.io/reports/sbm-2026#q-1-4
+2026-049_a_4,2,30 minutes to less than an hour,0.1543021715448862,15.43,154.30217154488543,155,false,https://reports.verasight.io/reports/sbm-2026#q-1-4
+2026-049_a_4,3,1 to less than 2 hours,0.2329725044367718,23.3,232.9725044367706,230,false,https://reports.verasight.io/reports/sbm-2026#q-1-4
+2026-049_a_4,4,2 to 3 hours,0.19658025158559223,19.66,196.5802515855912,197,false,https://reports.verasight.io/reports/sbm-2026#q-1-4
+2026-049_a_4,5,4 to 6 hours,0.14352069119202776,14.35,143.52069119202702,143,false,https://reports.verasight.io/reports/sbm-2026#q-1-4
+2026-049_a_4,6,7 to 10 hours,0.11568995781686027,11.57,115.68995781685967,119,false,https://reports.verasight.io/reports/sbm-2026#q-1-4
+2026-049_a_4,7,None,0.059413498250564606,5.94,59.4134982505643,59,false,https://reports.verasight.io/reports/sbm-2026#q-1-4
+2026-049_a_5,1,Does not describe me well,0.06494030872138373,6.49,64.9403087213834,67,false,https://reports.verasight.io/reports/sbm-2026#q-1-5
+2026-049_a_5,2,Sort of describes me,0.36622872001518614,36.62,366.22872001518425,364,false,https://reports.verasight.io/reports/sbm-2026#q-1-5
+2026-049_a_5,3,Describes me very well,0.5688309712634301,56.88,568.8309712634272,569,false,https://reports.verasight.io/reports/sbm-2026#q-1-5
+2026-049_a_6,1,Strongly agree,0.4029438023256423,40.29,402.94380232564026,410,false,https://reports.verasight.io/reports/sbm-2026#q-1-6
+2026-049_a_6,2,Agree,0.3682108979867935,36.82,368.2108979867916,371,false,https://reports.verasight.io/reports/sbm-2026#q-1-6
+2026-049_a_6,3,Neither agree or disagree,0.1958202001761529,19.58,195.8202001761519,189,false,https://reports.verasight.io/reports/sbm-2026#q-1-6
+2026-049_a_6,4,Disagree,0.01908344873348146,1.91,19.08344873348136,18,false,https://reports.verasight.io/reports/sbm-2026#q-1-6
+2026-049_a_6,5,Strongly disagree,0.013941650777929802,1.39,13.94165077792973,12,false,https://reports.verasight.io/reports/sbm-2026#q-1-6
+2026-049_a_7,1,Definitely,0.5171065643502276,51.71,517.106564350225,519,false,https://reports.verasight.io/reports/sbm-2026#q-1-7
+2026-049_a_7,2,Probably,0.30718653432431975,30.72,307.1865343243182,309,false,https://reports.verasight.io/reports/sbm-2026#q-1-7
+2026-049_a_7,3,Maybe,0.13916909286550788,13.92,139.16909286550717,137,false,https://reports.verasight.io/reports/sbm-2026#q-1-7
+2026-049_a_7,4,No,0.017955763474281728,1.8,17.955763474281635,17,false,https://reports.verasight.io/reports/sbm-2026#q-1-7
+2026-049_a_7,5,I don't know,0.018582044985662925,1.86,18.58204498566283,18,false,https://reports.verasight.io/reports/sbm-2026#q-1-7
+2026-049_a_8,1,Yes,0.7393606150473575,73.94,739.3606150473537,743,false,https://reports.verasight.io/reports/sbm-2026#q-1-8
+2026-049_a_8,2,No,0.23103341013261194,23.1,231.03341013261075,232,false,https://reports.verasight.io/reports/sbm-2026#q-1-8
+2026-049_a_8,3,I don't know,0.02960597482003051,2.96,29.605974820030358,25,false,https://reports.verasight.io/reports/sbm-2026#q-1-8
+2026-049_a_9,1,Physical health,0.6287565756020168,62.88,628.7565756020136,631,false,https://reports.verasight.io/reports/sbm-2026#q-1-9
+2026-049_a_9,2,Mental well-being,0.7251996951424042,72.52,725.1996951424005,728,false,https://reports.verasight.io/reports/sbm-2026#q-1-9
+2026-049_a_9,3,Recreation,0.4968911146195998,49.69,496.89111461959726,501,false,https://reports.verasight.io/reports/sbm-2026#q-1-9
+2026-049_a_9,4,To attend events,0.18228049471501356,18.23,182.28049471501262,186,false,https://reports.verasight.io/reports/sbm-2026#q-1-9
+2026-049_a_9,5,Family obligations,0.11669955220094277,11.67,116.69955220094218,110,false,https://reports.verasight.io/reports/sbm-2026#q-1-9
+2026-049_a_9,6,For my pets,0.2689503020634255,26.9,268.95030206342415,272,false,https://reports.verasight.io/reports/sbm-2026#q-1-9
+2026-049_a_9,7,Social connection,0.17906990739392914,17.91,179.06990739392822,177,false,https://reports.verasight.io/reports/sbm-2026#q-1-9
+2026-049_a_9,8,None of the above / I do not spend time in nature,0.04005994291389052,4.01,40.05994291389032,41,false,https://reports.verasight.io/reports/sbm-2026#q-1-9
+2026-049_b_1,1,Not at all important,0.024946435043256675,2.49,24.946435043257495,22,false,https://reports.verasight.io/reports/sbm-2026#q-2-1
+2026-049_b_1,2,Somewhat important,0.2260568863150346,22.61,226.05688631504202,216,false,https://reports.verasight.io/reports/sbm-2026#q-2-1
+2026-049_b_1,3,Very important,0.7489966786417088,74.9,748.9966786417334,762,false,https://reports.verasight.io/reports/sbm-2026#q-2-1
+2026-049_b_10,1,I do not have any chronic conditions,0.45029458488893476,45.03,450.29458488894954,449,false,https://reports.verasight.io/reports/sbm-2026#q-2-10
+2026-049_b_10,2,Automated medication management,0.07626709551387763,7.63,76.26709551388014,78,false,https://reports.verasight.io/reports/sbm-2026#q-2-10
+2026-049_b_10,3,Remote vital sign monitoring,0.08381645905612951,8.38,83.81645905613227,86,false,https://reports.verasight.io/reports/sbm-2026#q-2-10
+2026-049_b_10,4,Personalized lifestyle coaching,0.0781775489000576,7.82,78.17754890006016,73,false,https://reports.verasight.io/reports/sbm-2026#q-2-10
+2026-049_b_10,5,Peer support network,0.03677906002370665,3.68,36.779060023707856,34,false,https://reports.verasight.io/reports/sbm-2026#q-2-10
+2026-049_b_10,6,Educational resource library,0.1012694355712212,10.13,101.26943557122453,107,false,https://reports.verasight.io/reports/sbm-2026#q-2-10
+2026-049_b_10,7,Emotional support,0.09773760440519673,9.77,97.73760440519995,96,false,https://reports.verasight.io/reports/sbm-2026#q-2-10
+2026-049_b_10,8,Other,0.07565821164087595,7.57,75.65821164087843,77,false,https://reports.verasight.io/reports/sbm-2026#q-2-10
+2026-049_b_11,1,A peer/someone else living with diabetes,0.17834257800955217,17.83,178.34257800955803,174,false,https://reports.verasight.io/reports/sbm-2026#q-2-11
+2026-049_b_11,2,Family Member,0.18140324718819842,18.14,181.40324718820438,166,false,https://reports.verasight.io/reports/sbm-2026#q-2-11
+2026-049_b_11,3,"AI (e.g., chatgpt)",0.09596401747496981,9.6,95.96401747497296,96,false,https://reports.verasight.io/reports/sbm-2026#q-2-11
+2026-049_b_11,4,Social Media,0.11783918352215708,11.78,117.83918352216095,100,false,https://reports.verasight.io/reports/sbm-2026#q-2-11
+2026-049_b_11,5,"The community (e.g., faith-based programs)",0.04767559773304362,4.77,47.67559773304519,43,false,https://reports.verasight.io/reports/sbm-2026#q-2-11
+2026-049_b_11,6,"Healthcare providers (e.g., physician, nurse, pharmacist)",0.43814450445487735,43.81,438.1445044548917,444,false,https://reports.verasight.io/reports/sbm-2026#q-2-11
+2026-049_b_11,7,None of the above / I don't learn about diabetes/diabetes management,0.40837418803137726,40.84,408.3741880313907,420,false,https://reports.verasight.io/reports/sbm-2026#q-2-11
+2026-049_b_12,1,Yes,0.15572525477319454,15.57,155.72525477319965,145,false,https://reports.verasight.io/reports/sbm-2026#q-2-12
+2026-049_b_12,2,No,0.8442747452268056,84.43,844.2747452268333,855,false,https://reports.verasight.io/reports/sbm-2026#q-2-12
+2026-049_b_13,1,"Not currently, but it may be possible in the future.",0.2870070324407112,28.7,287.0070324407206,303,false,https://reports.verasight.io/reports/sbm-2026#q-2-13
+2026-049_b_13,2,"No, and I don't believe it will ever be possible.",0.3566643926273086,35.67,356.6643926273203,361,false,https://reports.verasight.io/reports/sbm-2026#q-2-13
+2026-049_b_13,3,"Yes, I believe they currently have some level of consciousness or sentience.",0.15383895418298033,15.38,153.8389541829854,142,false,https://reports.verasight.io/reports/sbm-2026#q-2-13
+2026-049_b_13,4,I don't know.,0.1868931154366713,18.69,186.89311543667745,184,false,https://reports.verasight.io/reports/sbm-2026#q-2-13
+2026-049_b_13,5,Prefer not to answer,0.015596505312328677,1.56,15.596505312329189,10,false,https://reports.verasight.io/reports/sbm-2026#q-2-13
+2026-049_b_14,1,I do not have a chronic illness / I do not care for someone with a chronic illness,0.362515601921075,36.25,362.5156019210869,372,false,https://reports.verasight.io/reports/sbm-2026#q-2-14
+2026-049_b_14,2,Therapy with a mental health professional in-person or online,0.2104286271413031,21.04,210.42862714131,198,false,https://reports.verasight.io/reports/sbm-2026#q-2-14
+2026-049_b_14,3,"Self-care or lifestyle strategies (e.x. sleep, diet, exercise)",0.30376453297943146,30.38,303.7645329794414,310,false,https://reports.verasight.io/reports/sbm-2026#q-2-14
+2026-049_b_14,4,"Mental health tools (e.x. meditation, journaling, affirmations",0.18934999694087976,18.93,189.34999694088597,186,false,https://reports.verasight.io/reports/sbm-2026#q-2-14
+2026-049_b_14,5,"Digital apps, websites, programs",0.13385750956693832,13.39,133.85750956694272,132,false,https://reports.verasight.io/reports/sbm-2026#q-2-14
+2026-049_b_14,6,Support from family or friends,0.2342441776803124,23.42,234.2441776803201,243,false,https://reports.verasight.io/reports/sbm-2026#q-2-14
+2026-049_b_14,7,Other; please describe:,0.01580974544951199,1.58,15.809745449512508,18,false,https://reports.verasight.io/reports/sbm-2026#q-2-14
+2026-049_b_14,8,None of the above,0.1472786878144405,14.73,147.27868781444533,137,false,https://reports.verasight.io/reports/sbm-2026#q-2-14
+2026-049_b_15,1,Therapist,0.35869753462338555,35.87,358.69753462339736,362,false,https://reports.verasight.io/reports/sbm-2026#q-2-15
+2026-049_b_15,2,Social Worker,0.01938338593191844,1.94,19.38338593191908,16,false,https://reports.verasight.io/reports/sbm-2026#q-2-15
+2026-049_b_15,3,Primary Care Provider,0.4679223386682132,46.79,467.9223386682286,478,false,https://reports.verasight.io/reports/sbm-2026#q-2-15
+2026-049_b_15,4,Other,0.036722208757584765,3.67,36.722208757585975,38,false,https://reports.verasight.io/reports/sbm-2026#q-2-15
+2026-049_b_15,5,None of the above,0.11727453201889804,11.73,117.2745320189019,106,false,https://reports.verasight.io/reports/sbm-2026#q-2-15
+2026-049_b_16,1,Strongly disagree,0.03488406158330654,3.49,34.88406158330769,36,false,https://reports.verasight.io/reports/sbm-2026#q-2-16
+2026-049_b_16,2,Disagree,0.08762105952347547,8.76,87.62105952347835,93,false,https://reports.verasight.io/reports/sbm-2026#q-2-16
+2026-049_b_16,3,Slightly disagree,0.07243120800556824,7.24,72.43120800557061,71,false,https://reports.verasight.io/reports/sbm-2026#q-2-16
+2026-049_b_16,4,Slightly agree,0.24423084183874244,24.42,244.23084183875048,247,false,https://reports.verasight.io/reports/sbm-2026#q-2-16
+2026-049_b_16,5,Agree,0.24478713257109472,24.48,244.78713257110277,244,false,https://reports.verasight.io/reports/sbm-2026#q-2-16
+2026-049_b_16,6,Strongly agree,0.22226466365970984,22.23,222.26466365971714,221,false,https://reports.verasight.io/reports/sbm-2026#q-2-16
+2026-049_b_16,7,None of the above,0.0937810328181028,9.38,93.78103281810587,88,false,https://reports.verasight.io/reports/sbm-2026#q-2-16
+2026-049_b_17,1,Not at all stressful,0.08658226228303388,8.66,86.58226228303673,83,false,https://reports.verasight.io/reports/sbm-2026#q-2-17
+2026-049_b_17,2,Not very stressful,0.21510494496488253,21.51,215.1049449648896,226,false,https://reports.verasight.io/reports/sbm-2026#q-2-17
+2026-049_b_17,3,A bit stressful,0.40122550460138273,40.12,401.2255046013959,398,false,https://reports.verasight.io/reports/sbm-2026#q-2-17
+2026-049_b_17,4,Quite a bit stressful,0.20081437326046606,20.08,200.81437326047265,210,false,https://reports.verasight.io/reports/sbm-2026#q-2-17
+2026-049_b_17,5,Extremely stressful,0.0962729148902348,9.63,96.27291489023797,83,false,https://reports.verasight.io/reports/sbm-2026#q-2-17
+2026-049_b_18,1,"I compare myself to people doing better than me, and I feel inspired, happy, or confident afterward.",0.359748251468086,35.97,359.7482514680978,362,false,https://reports.verasight.io/reports/sbm-2026#q-2-18
+2026-049_b_18,2,"I compare myself to people doing better than me, and I feel disappointed, anxious, or frustrated afterward.",0.33404309076588573,33.4,334.0430907658967,331,false,https://reports.verasight.io/reports/sbm-2026#q-2-18
+2026-049_b_18,3,"I compare myself to people doing worse than me, and I feel relieved, satisfied, or confident afterward.",0.22628940967998515,22.63,226.2894096799926,232,false,https://reports.verasight.io/reports/sbm-2026#q-2-18
+2026-049_b_18,4,"I compare myself to people doing worse than me, and I feel discouraged, anxious, or frustrated afterward.",0.07991924808604318,7.99,79.91924808604581,75,false,https://reports.verasight.io/reports/sbm-2026#q-2-18
+2026-049_b_19,1,Always / Every time I scroll,0.05690942325799065,5.69,56.90942325799252,55,false,https://reports.verasight.io/reports/sbm-2026#q-2-19
+2026-049_b_19,2,Frequently / Most times I scroll,0.1382531078295286,13.83,138.25310782953315,135,false,https://reports.verasight.io/reports/sbm-2026#q-2-19
+2026-049_b_19,3,Sometimes / Occasionally when I scroll,0.32182433796129056,32.18,321.8243379613011,319,false,https://reports.verasight.io/reports/sbm-2026#q-2-19
+2026-049_b_19,4,Rarely / Infrequently when I scroll,0.2513815829772251,25.14,251.38158297723336,254,false,https://reports.verasight.io/reports/sbm-2026#q-2-19
+2026-049_b_19,5,Never,0.12282668207738398,12.28,122.82668207738801,119,false,https://reports.verasight.io/reports/sbm-2026#q-2-19
+2026-049_b_19,6,I don't use short-form video platforms,0.10880486589658117,10.88,108.80486589658474,118,false,https://reports.verasight.io/reports/sbm-2026#q-2-19
+2026-049_b_2,1,Very unlikely,0.06993818759860913,6.99,69.93818759861144,62,false,https://reports.verasight.io/reports/sbm-2026#q-2-2
+2026-049_b_2,2,Somewhat unlikely,0.06817300428425625,6.82,68.1730042842585,73,false,https://reports.verasight.io/reports/sbm-2026#q-2-2
+2026-049_b_2,3,Neutral,0.19229499358820962,19.23,192.29499358821593,172,false,https://reports.verasight.io/reports/sbm-2026#q-2-2
+2026-049_b_2,4,Somewhat likely,0.27995168545630467,28.0,279.95168545631384,288,false,https://reports.verasight.io/reports/sbm-2026#q-2-2
+2026-049_b_2,5,Very likely,0.38964212907262036,38.96,389.64212907263317,405,false,https://reports.verasight.io/reports/sbm-2026#q-2-2
+2026-049_b_20,1,Joints (using rolling papers),0.11123562428279457,11.12,111.23562428279823,100,false,https://reports.verasight.io/reports/sbm-2026#q-2-20
+2026-049_b_20,2,"Blunts (cigar or little cigar sized, with or without tobacco)",0.0676674210015949,6.77,67.66742100159712,53,false,https://reports.verasight.io/reports/sbm-2026#q-2-20
+2026-049_b_20,3,Edibles,0.13751860668848417,13.75,137.5186066884887,136,false,https://reports.verasight.io/reports/sbm-2026#q-2-20
+2026-049_b_20,4,"Vaporizer (e.g., Volcano, Vape pen)",0.10003974979618624,10.0,100.03974979618953,93,false,https://reports.verasight.io/reports/sbm-2026#q-2-20
+2026-049_b_20,5,Pipe (hand pipe) or Bong (water pipe),0.07219702955500704,7.22,72.19702955500941,70,false,https://reports.verasight.io/reports/sbm-2026#q-2-20
+2026-049_b_20,6,"Concentrates (e.g., Oil, Wax, Shatter, Butane Hash Oil, Dabs, Tinctures)",0.04080715482722894,4.08,40.807154827230285,36,false,https://reports.verasight.io/reports/sbm-2026#q-2-20
+2026-049_b_20,7,"Other (e.g., Hookah, Delta-8)",0.012672002819564194,1.27,12.67200281956461,14,false,https://reports.verasight.io/reports/sbm-2026#q-2-20
+2026-049_b_20,8,I have not used cannabis/marijuana in the last 30 days,0.7274692764108874,72.75,727.4692764109113,741,false,https://reports.verasight.io/reports/sbm-2026#q-2-20
+2026-049_b_21,1,Not at all,0.36386115361194826,36.39,363.8611536119602,375,false,https://reports.verasight.io/reports/sbm-2026#q-2-21
+2026-049_b_21,2,A little influence,0.15629818885297797,15.63,156.29818885298312,171,false,https://reports.verasight.io/reports/sbm-2026#q-2-21
+2026-049_b_21,3,Moderate influence,0.14038321535244572,14.04,140.38321535245032,141,false,https://reports.verasight.io/reports/sbm-2026#q-2-21
+2026-049_b_21,4,High influence,0.10838174851279678,10.84,108.38174851280034,96,false,https://reports.verasight.io/reports/sbm-2026#q-2-21
+2026-049_b_21,5,Prefer not to respond,0.0387793594677838,3.88,38.77935946778507,37,false,https://reports.verasight.io/reports/sbm-2026#q-2-21
+2026-049_b_21,6,I do not have a partner,0.1922963342020475,19.23,192.29633420205383,180,false,https://reports.verasight.io/reports/sbm-2026#q-2-21
+2026-049_b_22,1,Yes,0.07149867546012231,7.15,71.49867546012466,66,false,https://reports.verasight.io/reports/sbm-2026#q-2-22
+2026-049_b_22,2,No,0.738747675445747,73.87,738.7476754457713,752,false,https://reports.verasight.io/reports/sbm-2026#q-2-22
+2026-049_b_22,3,"I'm curious, but not sure",0.10504738393213307,10.5,105.04738393213653,101,false,https://reports.verasight.io/reports/sbm-2026#q-2-22
+2026-049_b_22,4,I don't know or have not thought about it,0.0847062651619976,8.47,84.70626516200038,81,false,https://reports.verasight.io/reports/sbm-2026#q-2-22
+2026-049_b_23,1,Yes,0.30663472258502417,30.66,306.63472258503424,293,false,https://reports.verasight.io/reports/sbm-2026#q-2-23
+2026-049_b_23,2,No (medical purposes only),0.4484160345391293,44.84,448.41603453914405,465,false,https://reports.verasight.io/reports/sbm-2026#q-2-23
+2026-049_b_23,3,No (not legal in any case),0.24494924287584655,24.49,244.9492428758546,242,false,https://reports.verasight.io/reports/sbm-2026#q-2-23
+2026-049_b_24,1,Yes,0.11915022608729331,11.92,119.15022608729723,119,false,https://reports.verasight.io/reports/sbm-2026#q-2-24
+2026-049_b_24,2,No,0.3208123965019788,32.08,320.8123965019893,336,false,https://reports.verasight.io/reports/sbm-2026#q-2-24
+2026-049_b_24,3,Don't know enough about it,0.5600373774107279,56.0,560.0373774107463,545,false,https://reports.verasight.io/reports/sbm-2026#q-2-24
+2026-049_b_25,1,Strongly agree,0.10766710960724721,10.77,107.66710960725075,106,false,https://reports.verasight.io/reports/sbm-2026#q-2-25
+2026-049_b_25,2,Agree,0.2550359301789665,25.5,255.03593017897487,254,false,https://reports.verasight.io/reports/sbm-2026#q-2-25
+2026-049_b_25,3,Neutral,0.44421449329377943,44.42,444.214493293794,449,false,https://reports.verasight.io/reports/sbm-2026#q-2-25
+2026-049_b_25,4,Disagree,0.11280619170154152,11.28,112.80619170154523,116,false,https://reports.verasight.io/reports/sbm-2026#q-2-25
+2026-049_b_25,5,Strongly disagree,0.08027627521846538,8.03,80.27627521846802,75,false,https://reports.verasight.io/reports/sbm-2026#q-2-25
+2026-049_b_26,1,Extremely harmful,0.3087976321365977,30.88,308.7976321366079,316,false,https://reports.verasight.io/reports/sbm-2026#q-2-26
+2026-049_b_26,2,Very harmful,0.23209109171334874,23.21,232.09109171335638,242,false,https://reports.verasight.io/reports/sbm-2026#q-2-26
+2026-049_b_26,3,Moderately harmful,0.20243628738407063,20.24,202.43628738407727,196,false,https://reports.verasight.io/reports/sbm-2026#q-2-26
+2026-049_b_26,4,A little harmful,0.10548041366602752,10.55,105.48041366603098,106,false,https://reports.verasight.io/reports/sbm-2026#q-2-26
+2026-049_b_26,5,Not at all harmful,0.033207047086438214,3.32,33.2070470864393,29,false,https://reports.verasight.io/reports/sbm-2026#q-2-26
+2026-049_b_26,6,Unsure / I have not heard of these products,0.11798752801351718,11.8,117.98752801352106,111,false,https://reports.verasight.io/reports/sbm-2026#q-2-26
+2026-049_b_27,1,Strongly agree,0.22857983506497326,22.86,228.57983506498076,231,false,https://reports.verasight.io/reports/sbm-2026#q-2-27
+2026-049_b_27,2,Agree,0.33441881542658647,33.44,334.41881542659746,344,false,https://reports.verasight.io/reports/sbm-2026#q-2-27
+2026-049_b_27,3,Disagree,0.14930974964918228,14.93,149.30974964918718,150,false,https://reports.verasight.io/reports/sbm-2026#q-2-27
+2026-049_b_27,4,Strongly disagree,0.11742209267751416,11.74,117.42209267751802,119,false,https://reports.verasight.io/reports/sbm-2026#q-2-27
+2026-049_b_27,5,None of the above,0.17026950718174388,17.03,170.26950718174947,156,false,https://reports.verasight.io/reports/sbm-2026#q-2-27
+2026-049_b_28,1,Federal lawmakers have much more impact,0.11093798498566577,11.09,110.93798498566942,113,false,https://reports.verasight.io/reports/sbm-2026#q-2-28
+2026-049_b_28,2,Federal lawmakers have somewhat more impact,0.22781111050763925,22.78,227.81111050764673,226,false,https://reports.verasight.io/reports/sbm-2026#q-2-28
+2026-049_b_28,3,About equal impact,0.4638290281377026,46.38,463.82902813771784,455,false,https://reports.verasight.io/reports/sbm-2026#q-2-28
+2026-049_b_28,4,State lawmakers have somewhat more impact,0.14310072070108912,14.31,143.10072070109382,154,false,https://reports.verasight.io/reports/sbm-2026#q-2-28
+2026-049_b_28,5,State lawmakers have much more impact,0.05432115566790335,5.43,54.32115566790513,52,false,https://reports.verasight.io/reports/sbm-2026#q-2-28
+2026-049_b_29,1,Never,0.4835808750003917,48.36,483.5808750004076,496,false,https://reports.verasight.io/reports/sbm-2026#q-2-29
+2026-049_b_29,2,Rarely,0.2186587558456263,21.87,218.6587558456335,217,false,https://reports.verasight.io/reports/sbm-2026#q-2-29
+2026-049_b_29,3,Sometimes,0.1833422398815014,18.33,183.34223988150742,191,false,https://reports.verasight.io/reports/sbm-2026#q-2-29
+2026-049_b_29,4,Often,0.06064475279539515,6.06,60.64475279539714,53,false,https://reports.verasight.io/reports/sbm-2026#q-2-29
+2026-049_b_29,5,Always,0.02686593632775608,2.69,26.865936327756962,23,false,https://reports.verasight.io/reports/sbm-2026#q-2-29
+2026-049_b_29,6,Don't know,0.026907440149329394,2.69,26.907440149330277,20,false,https://reports.verasight.io/reports/sbm-2026#q-2-29
+2026-049_b_3,1,Strongly disagree,0.023163352179014475,2.32,23.163352179015234,27,false,https://reports.verasight.io/reports/sbm-2026#q-2-3
+2026-049_b_3,2,Somewhat disagree,0.09704171793896779,9.7,97.04171793897098,105,false,https://reports.verasight.io/reports/sbm-2026#q-2-3
+2026-049_b_3,3,Neutral,0.2655138465631801,26.55,265.51384656318885,239,false,https://reports.verasight.io/reports/sbm-2026#q-2-3
+2026-049_b_3,4,Somewhat agree,0.40579616546199043,40.58,405.7961654620038,425,false,https://reports.verasight.io/reports/sbm-2026#q-2-3
+2026-049_b_3,5,Strongly agree,0.2084849178568472,20.85,208.48491785685405,204,false,https://reports.verasight.io/reports/sbm-2026#q-2-3
+2026-049_b_30,1,1- Not at all interested,0.23711568664673088,23.71,237.11568664673868,254,false,https://reports.verasight.io/reports/sbm-2026#q-2-30
+2026-049_b_30,2,2- Slightly interested,0.23213917738858705,23.21,232.13917738859467,239,false,https://reports.verasight.io/reports/sbm-2026#q-2-30
+2026-049_b_30,3,3- Somewhat interested,0.26201901603858346,26.2,262.0190160385921,253,false,https://reports.verasight.io/reports/sbm-2026#q-2-30
+2026-049_b_30,4,4- Moderately interested,0.15696621913266393,15.7,156.9662191326691,150,false,https://reports.verasight.io/reports/sbm-2026#q-2-30
+2026-049_b_30,5,5- Extremely interested,0.11175990079343472,11.18,111.75990079343839,104,false,https://reports.verasight.io/reports/sbm-2026#q-2-30
+2026-049_b_31,1,"Zero, not acceptable at all",0.317199105888978,31.72,317.1991058889884,318,false,https://reports.verasight.io/reports/sbm-2026#q-2-31
+2026-049_b_31,2,Once per day,0.15916536646933307,15.92,159.1653664693383,159,false,https://reports.verasight.io/reports/sbm-2026#q-2-31
+2026-049_b_31,3,2 to 3 times a day,0.3109016856778627,31.09,310.90168567787293,311,false,https://reports.verasight.io/reports/sbm-2026#q-2-31
+2026-049_b_31,4,4 to 5 times a day,0.051812015455351156,5.18,51.81201545535286,52,false,https://reports.verasight.io/reports/sbm-2026#q-2-31
+2026-049_b_31,5,Every time I eat or drink,0.16092182650847509,16.09,160.92182650848036,160,false,https://reports.verasight.io/reports/sbm-2026#q-2-31
+2026-049_b_32,1,$0 / I would not pay for this,0.7555895113846255,75.56,755.5895113846503,767,false,https://reports.verasight.io/reports/sbm-2026#q-2-32
+2026-049_b_32,2,Up to $5,0.10059584848551638,10.06,100.59584848551968,96,false,https://reports.verasight.io/reports/sbm-2026#q-2-32
+2026-049_b_32,3,$5 to $10,0.08234020176576091,8.23,82.34020176576362,79,false,https://reports.verasight.io/reports/sbm-2026#q-2-32
+2026-049_b_32,4,$10 to $20,0.04384193399410057,4.38,43.841933994102014,40,false,https://reports.verasight.io/reports/sbm-2026#q-2-32
+2026-049_b_32,5,$20 to $30,0.015028928613906986,1.5,15.02892861390748,16,false,https://reports.verasight.io/reports/sbm-2026#q-2-32
+2026-049_b_32,6,More than $30,0.002603575756089614,0.26,2.6035757560896995,2,false,https://reports.verasight.io/reports/sbm-2026#q-2-32
+2026-049_b_33,1,Less than 20%,0.10352805179227516,10.35,103.52805179227856,102,false,https://reports.verasight.io/reports/sbm-2026#q-2-33
+2026-049_b_33,2,Between 20 and 40%,0.1747491380909242,17.47,174.74913809092996,166,false,https://reports.verasight.io/reports/sbm-2026#q-2-33
+2026-049_b_33,3,Between 40 and 60%,0.28541902419956366,28.54,285.419024199573,293,false,https://reports.verasight.io/reports/sbm-2026#q-2-33
+2026-049_b_33,4,Between 60 and 80%,0.14897755091755868,14.9,148.97755091756358,157,false,https://reports.verasight.io/reports/sbm-2026#q-2-33
+2026-049_b_33,5,Greater than 80%,0.07837892712818795,7.84,78.37892712819053,84,false,https://reports.verasight.io/reports/sbm-2026#q-2-33
+2026-049_b_33,6,Other (I am not interested in trivia events),0.2089473078714904,20.89,208.94730787149726,198,false,https://reports.verasight.io/reports/sbm-2026#q-2-33
+2026-049_b_4,1,Very unlikely,0.014779374048252004,1.48,14.77937404825249,16,false,https://reports.verasight.io/reports/sbm-2026#q-2-4
+2026-049_b_4,2,Somewhat unlikely,0.02727172985614754,2.73,27.271729856148436,24,false,https://reports.verasight.io/reports/sbm-2026#q-2-4
+2026-049_b_4,3,Neutral,0.14564488534644723,14.56,145.644885346452,128,false,https://reports.verasight.io/reports/sbm-2026#q-2-4
+2026-049_b_4,4,Somewhat likely,0.29263944335472536,29.26,292.63944335473496,290,false,https://reports.verasight.io/reports/sbm-2026#q-2-4
+2026-049_b_4,5,Very likely,0.519664567394428,51.97,519.664567394445,542,false,https://reports.verasight.io/reports/sbm-2026#q-2-4
+2026-049_b_5,1,Not at all concerned,0.03385320730547264,3.39,33.85320730547375,33,false,https://reports.verasight.io/reports/sbm-2026#q-2-5
+2026-049_b_5,2,Slightly concerned,0.066344267696806,6.63,66.34426769680817,70,false,https://reports.verasight.io/reports/sbm-2026#q-2-5
+2026-049_b_5,3,Moderately concerned,0.15928166861699528,15.93,159.28166861700052,158,false,https://reports.verasight.io/reports/sbm-2026#q-2-5
+2026-049_b_5,4,Very concerned,0.2569429093454211,25.69,256.94290934542954,255,false,https://reports.verasight.io/reports/sbm-2026#q-2-5
+2026-049_b_5,5,Extremely concerned,0.46995692631018277,47.0,469.9569263101982,473,false,https://reports.verasight.io/reports/sbm-2026#q-2-5
+2026-049_b_5,6,Other,0.01362102072512226,1.36,13.621020725122708,11,false,https://reports.verasight.io/reports/sbm-2026#q-2-5
+2026-049_b_6,1,I have not had surgery for breast cancer,0.9479889110827587,94.8,947.9889110827899,946,false,https://reports.verasight.io/reports/sbm-2026#q-2-6
+2026-049_b_6,2,Lumpectomy,0.02584806496234656,2.58,25.84806496234741,31,false,https://reports.verasight.io/reports/sbm-2026#q-2-6
+2026-049_b_6,3,Mastectomy and reconstruction with implants,0.014054991213780505,1.41,14.054991213780967,15,false,https://reports.verasight.io/reports/sbm-2026#q-2-6
+2026-049_b_6,4,"Mastectomy and reconstruction with my own tissue (e.g., DIEP flap)",0.012204346918366957,1.22,12.204346918367358,10,false,https://reports.verasight.io/reports/sbm-2026#q-2-6
+2026-049_b_6,5,"Mastectomy with no reconstruction (e.g., flat closure)",0.009933584096676917,0.99,9.933584096677244,10,false,https://reports.verasight.io/reports/sbm-2026#q-2-6
+2026-049_b_6,6,Mastectomy with goldilocks reconstruction,0.005164341160302233,0.52,5.164341160302403,4,false,https://reports.verasight.io/reports/sbm-2026#q-2-6
+2026-049_b_7,1,A doctor or healthcare provider,0.7634470004067953,76.34,763.4470004068203,786,false,https://reports.verasight.io/reports/sbm-2026#q-2-7
+2026-049_b_7,2,A family member or close friend,0.46806194146406166,46.81,468.06194146407705,489,false,https://reports.verasight.io/reports/sbm-2026#q-2-7
+2026-049_b_7,3,A health or wellness coach,0.22636911694582199,22.64,226.36911694582943,243,false,https://reports.verasight.io/reports/sbm-2026#q-2-7
+2026-049_b_7,4,An AI-powered health or nutrition app or program,0.17263030276838368,17.26,172.63030276838936,180,false,https://reports.verasight.io/reports/sbm-2026#q-2-7
+2026-049_b_7,5,My health insurance company,0.19890393701184278,19.89,198.9039370118493,206,false,https://reports.verasight.io/reports/sbm-2026#q-2-7
+2026-049_b_7,6,No one - I would keep this data entirely private,0.06096136155048724,6.1,60.961361550489244,58,false,https://reports.verasight.io/reports/sbm-2026#q-2-7
+2026-049_b_7,7,I would not use a CGM,0.11075799120502686,11.08,110.75799120503049,94,false,https://reports.verasight.io/reports/sbm-2026#q-2-7
+2026-049_b_8,1,Adjusting your medicines,0.6289673702959542,62.9,628.9673702959749,651,false,https://reports.verasight.io/reports/sbm-2026#q-2-8
+2026-049_b_8,2,"Interpreting your lab data, medication or health record information",0.5093751398532271,50.94,509.37513985324387,522,false,https://reports.verasight.io/reports/sbm-2026#q-2-8
+2026-049_b_8,3,Providing dietary advice,0.3175676602097762,31.76,317.56766020978665,321,false,https://reports.verasight.io/reports/sbm-2026#q-2-8
+2026-049_b_8,4,Emotional support,0.548426856613235,54.84,548.426856613253,561,false,https://reports.verasight.io/reports/sbm-2026#q-2-8
+2026-049_b_8,5,Addressing your concerns about your medicines,0.5750990204703285,57.51,575.0990204703473,593,false,https://reports.verasight.io/reports/sbm-2026#q-2-8
+2026-049_b_8,6,Telling you whether your medicine is necessary,0.5330971859843501,53.31,533.0971859843676,550,false,https://reports.verasight.io/reports/sbm-2026#q-2-8
+2026-049_b_8,7,Other,0.04666894749586448,4.67,46.66894749586601,47,false,https://reports.verasight.io/reports/sbm-2026#q-2-8
+2026-049_b_8,8,None of the above,0.13444421286053113,13.44,134.44421286053554,114,false,https://reports.verasight.io/reports/sbm-2026#q-2-8
+2026-049_b_9,1,"Understanding a health condition, symptom, or diagnosis",0.27019686829394,27.02,270.1968682939489,279,false,https://reports.verasight.io/reports/sbm-2026#q-2-9
+2026-049_b_9,2,Learning about medications or treatments,0.1982614860429042,19.83,198.26148604291072,208,false,https://reports.verasight.io/reports/sbm-2026#q-2-9
+2026-049_b_9,3,"Diet, nutrition, or meal planning",0.15428482094882975,15.43,154.28482094883483,159,false,https://reports.verasight.io/reports/sbm-2026#q-2-9
+2026-049_b_9,4,Physical activity or lifestyle improvement,0.12501648204835486,12.5,125.01648204835898,125,false,https://reports.verasight.io/reports/sbm-2026#q-2-9
+2026-049_b_9,5,Mental health or emotional support,0.100778263997661,10.08,100.77826399766431,93,false,https://reports.verasight.io/reports/sbm-2026#q-2-9
+2026-049_b_9,6,Preparing for or following up on a medical visit,0.11623886543486671,11.62,116.23886543487053,111,false,https://reports.verasight.io/reports/sbm-2026#q-2-9
+2026-049_b_9,7,Other,0.0380831056752957,3.81,38.08310567529695,36,false,https://reports.verasight.io/reports/sbm-2026#q-2-9
+2026-049_b_9,8,None of the above,0.5571264331870415,55.71,557.1264331870598,554,false,https://reports.verasight.io/reports/sbm-2026#q-2-9
